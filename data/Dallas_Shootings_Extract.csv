@@ -1,0 +1,209 @@
+case_number,date,location,subject_statuses,subject_weapon,subject_count,subject_race,subject_gender,officer_count,latitude,longitude
+44523A,2013-02-23,"3000 Chihuahua Street",Injured,Handgun,1,L,M,2,NULL,NULL
+121982X,2010-05-03,"1300 N. Munger Boulevard",Injured,Handgun,1,L,M,1,NULL,NULL
+244659R,2006-04-03,"6512 South Loop 12",Injured,Hands,1,B,M,1,NULL,NULL
+363184P,2005-05-09,"4900 Eastside Avenue","Shoot and Miss",Vehicle,1,L,M,2,NULL,NULL
+559487M,2003-07-24,"7728 S. Loop 12",Deceased,Handgun,1,B,M,2,NULL,NULL
+862009M,2003-11-12,"4811 Duncanville Road",Deceased,Shotgun,1,L,M,2,32.68642,-96.908674
+60045A,2013-03-14,"2208 W. Northwest Highway",Deceased,Handgun,1,B,M,1,32.864,-96.898998
+236112-2014,2014-10-01,"4807 Maple Avenue","Shoot and Miss","Toy Handgun",1,W,M,1,32.81482,-96.826787
+27878Z,2012-02-02,"2700 Medill Street",Injured,Unarmed,1,B,M,1,32.7754,-96.767489
+963516P,2005-12-04,"400 Sunset Avenue","Shoot and Miss",Handgun,1,B,M,1,32.74417,-96.82847
+373521W,2009-12-20,"14500 Dallas North Parkway",Injured,Hands,1,L,M,1,32.945,-96.822619
+194631A,2013-07-31,"4600 Haverwood Lane","Shoot and Miss",Handgun,1,L,M,1,33.0073,-96.831946
+134472-2015,2015-06-13,"1400 South Lamar Street",Deceased,Rifle,1,W,M,15,32.7673,-96.795013
+871610R,2006-11-18,"4515 Village Fair Place",Deceased,Handgun,1,B,M,1,32.68943,-96.828234
+118251R,2006-02-16,"1228 Oak Park Drive",Injured,Handgun,1,L,M,5,32.68904,-96.84436
+989995N,2004-12-24,"4100 Garrison Street",Injured,Hands,1,B,M,2,32.70298,-96.786995
+286923W,2009-10-08,"200 Ezekial Street","Shoot and Miss",Handgun,1,B,M,1,32.7148,-96.710725
+288718W,2009-09-27,"2745 Ivandell Road",Deceased,Unarmed,1,L,M,1,32.73648,-96.865394
+28021M,2003-01-11,"2209 Northwest Highway","Shoot and Miss",Handgun,1,L,M,1,32.8639,-96.898068
+155523Z,2012-06-24,"4345 W. Camp Wisdom Road",Deceased,Handgun,1,B,M,1,32.66202,-96.890533
+296242Y,2011-11-09,"2500 Wells Street",Injured,Handgun,1,B,M,1,32.73976,-96.754039
+309130W,2009-10-17,"3902 Frank Street",Injured,Handgun,1,B,M,2,32.77188,-96.749393
+291215M,2003-04-23,"8400 Scyene Road",Deceased,Knife,1,W,M,1,32.76332,-96.676431
+842907R,2006-11-07,"2711 Exline Street","Shoot and Miss","Paint Ball Rifle",1,B,M,1,32.75779,-96.757384
+165748Y,2011-06-24,"7152 Fair Oaks Avenue","Shoot and Miss",Vehicle,1,B,M,2,32.87317,-96.75778
+64249X,2010-03-08,"12222 Merit Drive","Shoot and Miss",Handgun,1,W,M,1,32.91469,-96.7718
+73571Y,2011-03-24,"230 S. Riverfront Boulevard",Injured,Handgun,1,L,M,2,32.77571,-96.813213
+106454R,2006-02-11,"200 S Madison Avenue","Shoot and Miss","Toy Handun",1,L,F,1,32.74414,-96.82649
+74700W,2009-03-17,"733 Cliffview Drive",Injured,Handgun,1,B,M,1,32.70438,-96.671745
+517454M,2003-07-09,"7800 Dasch Street",Injured,Handgun,1,B,M,1,32.72177,-96.688362
+280218A,2013-11-01,"1524 E. Missouri Avenue",Deceased,Taser,1,L,M,1,32.71797,-96.802025
+523445N,2004-07-10,"4122 Rawlins Street",Injured,Handgun,1,W,M,1,32.81452,-96.810818
+204701-2014,2014-08-25,"9000 Lake June Road",Deceased,Handgun,1,B,M,1,32.73419,-96.665266
+227824P,2005-03-25,"2800 N. St. Augustine Drive",Deceased,Handgun,1,B,M,1,32.75926,-96.656826
+263673A,2013-10-14,"9452 Crimnson Court",Injured,Knife,1,W,M,1,32.66901,-96.662659
+192550-2014,2014-08-11,"3647 Espanola Drive",Deceased,Knife,1,L,M,1,32.86836,-96.856854
+371544W,2009-12-18,"5215 Belmont Avenue",Injured,Hands,1,W,M,1,32.81484,-96.780444
+349201W,2009-11-24,"5716 Winton Street",Injured,Unarmed,1,B,M,1,32.83568,-96.769373
+167911V,2008-06-06,"1521 N. Cockrell Hill Road",Deceased,"Box Cutter",1,W,M,1,32.76308,-96.895315
+155466-2015,2015-07-07,"1100 N. Bishop Blvd",Deceased,Handgun,1,W,M,4,32.75613,-96.827795
+94073V,2008-03-31,"3100 Birmingham Street",Injured,Handgun,1,B,M,8,32.77,-96.76224
+507756T,2007-07-07,"1818 N. Akard Street","Shoot and Miss",Vehicle,1,B,M,1,32.78652,-96.802127
+311475A,2013-12-09,"9524 Military Parkway",Injured,Unarmed,1,B,M,1,32.76831,-96.657518
+997316P,2005-12-18,"2800 Indiana Street","Shoot and Miss",Handgun,1,A,M,1,32.7854,-96.783814
+174404Z,2012-07-15,"200 S. Pearl Street","Shoot and Miss",Handgun,1,L,M,1,32.78136,-96.79226
+78756X,2010-03-22,"10222 N. Walton Walker Boulevard",Deceased,Taser,1,L,M,3,32.86311,-96.900308
+139031V,2008-05-11,"800 Stemmons Freeway",Injured,Unarmed,1,W,M,2,32.78627,-96.8127
+131613W,2009-05-08,"1900 Empire Central",Injured,Vehicle,1,B,M,1,32.82618,-96.85714
+267651Z,2012-10-27,"3716 Spring Avenue","Shoot and Miss",Unarmed,1,B,M,1,32.7691,-96.748631
+826658M,2003-10-30,"8307 Meadow Road",Injured,Vehicle,1,L,M,1,32.88685,-96.761546
+665855T,2007-09-22,"11200 Woodmeadow Parkway",Deceased,Unarmed,1,B,M,1,32.8514,-96.646849
+201198T,2007-03-22,"7000 Lake June Road",Deceased,Unarmed,1,B,M,1,32.73424,-96.700939
+140172-2016,2016-06-10,"8008 Herb Keheller",Injured,Rock,1,B,M,1,32.8526,-96.85281
+259768Y,2011-10-01,"2000 Commerce Street","Shoot and Miss",Handgun,1,B,M,1,32.78099,-96.793979
+34227X,2010-02-05,"3303 W. Illinois Avenue",Injured,Handgun,1,W,M,1,32.72036,-96.87471
+79223B,2014-04-04,"1221 S. Lamar Street",Deceased,Knife,1,W,M,1,32.76867,-96.796936
+368360M,2003-05-09,"7600 S.M. Wright Freeway","Shoot and Miss",Handgun,1,B,M,1,32.65595,-96.822788
+135229-2015,2015-06-14,"3211 Reynolds Avenue","Shoot and Miss",Handgun,1,L,M,1,32.78642,-96.740186
+290212V,2008-09-16,"4800 S. Lancaster Road",Deceased,Hands,1,B,M,1,32.69049,-96.791435
+588432T,2007-08-06,"9100 Stone Creek Place",Deceased,Unarmed,1,W,M,1,32.9059,-96.745461
+398617R,2006-05-27,"2208 N. Carroll Avenue",Deceased,Unarmed,1,W,M,1,32.80625,-96.78443
+308344X,2010-11-07,"3100 W. Davis Street",Deceased,"Simulated Handgun",1,L,M,5,32.74954,-96.871586
+302639Y,2011-11-16,"2900 Spruce Valley Lane","Shoot and Miss",Unarmed,1,L,M,1,32.71391,-96.876091
+117903Y,2011-05-08,"6417 Ridgecrest Road",Injured,Unarmed,1,B,M,1,32.8664,-96.752763
+986476P,2005-12-13,"7442 Chesterfield Drive",Injured,Handgun,1,B,M,1,32.65625,-96.869793
+32587A,2013-02-08,"6500 Skillman Street",Deceased,Shotgun,1,W,M,5,32.8651,-96.743538
+8025N,2004-01-03,"6950 Marvin D. Love Freeway",Deceased,Knife,1,B,F,2,32.6636,-96.867936
+130254Z,2012-05-27,"7129 Tabor Drive",Deceased,Handgun,1,W,M,2,32.87725,-96.737028
+249259V,2008-08-12,"6800 Larmanda Street",Injured,Handgun,1,B,M,2,32.86723,-96.74732
+5567A,2013-01-07,"4322 Fernwood Avenue","Shoot and Miss",Handgun,1,B,M,5,32.69435,-96.798039
+277548V,2008-09-08,"10333 Technology Boulevard","Shoot and Miss","Assault Rifle",1,L,M,1,32.86305,-96.897332
+828847M,2003-10-30,"7500 Gayglen Drive",Injured,Knife,1,L,M,2,32.7097,-96.692775
+167208N,2004-03-07,"2242 Zang Boulevard South","Shoot and Miss",Vehicle,1,B,M,2,32.7209,-96.830217
+396556T,2007-05-30,"5400 Bonita Avenue","Shoot and Miss",Unarmed,1,L,M,1,32.8182,-96.777416
+738862R,2006-09-29,"9711 Pinehurst Lane","2 Injured",Handgun,1,B,M,2,32.76506,-96.654428
+115951X,2010-04-27,"2600 Walnut Hill Lane","Shoot and Miss",Vehicle,1,L,M,1,32.88101,-96.888174
+182199A,2013-07-17,"1639 Conner Drive",Deceased,Unarmed,1,L,M,1,32.74073,-96.680953
+219229-2015,2015-09-21,"10800 Stone Canyon Rd",Deceased,Handgun,1,L,M,2,32.89443,-96.774734
+199250-2015,2015-08-27,"3610 Penelope Street",Deceased,"Pellet Gun",1,B,M,9,32.77078,-96.753149
+141404P,2005-02-23,"8600 Cherry Brook Street","Shoot and Miss",Handgun,1,L,M,1,32.7387,-96.673222
+816576M,2003-10-26,"900 E. McVey Avenue",Injured,Vehicle,1,L,M,1,32.7095,-96.81216
+125333Z,2012-05-22,"5900 Stretch Drive",Deceased,Handgun,1,B,M,1,32.7334,-96.92265
+223423V,2008-07-18,"7700 Denton Drive",Injured,Handgun,1,L,M,2,32.83827,-96.85136
+190589M,2003-03-18,"14655 Preston Road",Deceased,Shotgun,1,W,M,1,32.94754,-96.803614
+226926-2015,2015-09-30,"4207 Wiley College Dr","Shoot and Miss",Handgun,1,B,M,1,32.67005,-96.748462
+266084V,2008-08-27,"2745 W. Northwest Highway","Shoot and Miss",Handgun,1,B,M,2,32.85803,-96.874071
+161783A,2013-06-26,"2310 Martin Luther King Jr. Blvd",Injured,Knife,1,B,M,2,32.76472,-96.773437
+166059-2014,2014-07-10,"500 S. Llewellyn Avenue","Shoot and Miss",Handgun,1,L,M,2,32.74114,-96.832159
+2315A,2013-01-03,"1515 S. Buckner Boulevard","Shoot and Miss",Vehicle,1,L,M,2,32.73863,-96.682972
+154621A,2013-06-19,"8943 Senate Street","Shoot and Miss",Handgun,1,B,M,1,32.80016,-96.689744
+160390V,2008-05-30,"4526 Humphrey Avenue",Deceased,"Toy Rifle",1,B,M,3,32.70525,-96.762627
+5804W,2009-01-06,"4950 Wadsworth Drive","Shoot and Miss",Handgun,1,B,M,2,32.69879,-96.760506
+194377Z,2012-08-06,"12670 E. Northwest Highway","Shoot and Miss",Vehicle,1,B,M,1,32.86401,-96.662901
+133475-2015,2015-06-12,"2620 Creative Place","Shoot and Miss",Unarmed,1,L,M,1,32.75905,-96.864368
+628987M,2003-08-18,"3500 McKinney Avenue",Injured,Vehicle,1,B,M,1,32.80576,-96.798423
+871096R,2006-11-18,"1700 Martin Luther King Jr. Boulevard",Injured,Handgun,1,B,M,5,32.76197,-96.776719
+125274N,2004-02-20,"11819 Webb Chapel Road","Shoot and Miss",Vehicle,1,L,M,1,32.91115,-96.8733
+322771Y,2011-12-10,"12121 Audelia Road",Injured,Knife,1,B,M,1,32.9125,-96.718124
+260896-2015,2015-11-09,"2435 W. Northwest Hwy",Injured,Vehicle,1,L,M,3,32.85879,-96.882629
+702591N,2004-09-11,"5146 Vandelia Street #101",Injured,Handgun,1,L,M,1,32.82223,-96.823942
+125236B,2014-05-24,"6048 Belmont Avenue","Shoot and Miss",Handgun,1,L,M,1,32.81731,-96.761852
+203348T,2007-03-23,"4023 Bernal Drive",Injured,Rifle,1,L,M,4,32.7915,-96.886832
+1066R,2006-01-01,"5423 Peterson Lane #259",Injured,Knife,1,L,M,1,32.9306,-96.814373
+45802Z,2012-02-24,"17601 Marsh Lane",Deceased,Handgun,1,W,M,1,32.99075,-96.854966
+86771W,2009-03-29,"1400 N. Garrett Avenue",Deceased,Handgun,1,L,M,2,32.8057,-96.771209
+313491Y,2011-11-30,"3800 Dilido Street","Shoot and Miss",Handgun,1,L,M,1,32.79855,-96.688211
+192694Y,2011-07-22,"2550 W. Redbird Lane","Shoot and Miss",Unarmed,1,B,M,1,32.67113,-96.859781
+445728T,2007-06-15,"1200 Shaw Street",Injured,Vehicle,1,L,M,2,32.78589,-96.842736
+146068-2015,2015-06-26,"3306 Irving Boulevard","Shoot and Miss",Handgun,1,L,M,1,32.80791,-96.874081
+161582R,2006-03-05,"10834 Ferguson Road","Shoot and Miss",Vehicle,1,B,M,1,32.84293,-96.664025
+379145V,2008-12-14,"2505 Pacific Avenue","Shoot and Miss",Handgun,1,L,M,1,32.78471,-96.789168
+636873T,2007-08-27,"2911 Lombardy Lane","Shoot and Miss",Vehicle,1,L,M,1,32.8664,-96.876324
+37894B,2014-02-15,"13030 Audelia Road",Injured,Handgun,1,B,M,2,32.92425,-96.71798
+469671N,2004-06-22,"3900 N. Hampton Road","Shoot and Miss",Vehicle,1,B,M,1,32.78976,-96.85641
+910563P,2005-11-13,"2415 Madera Street","Shoot and Miss",Handgun,1,L,M,1,32.81616,-96.778443
+300693X,2010-10-29,"3810 Bonnie View Road",Deceased,Unarmed,1,B,M,1,32.71273,-96.775044
+40931B,2014-02-19,"4200 Elmira Street",Injured,Handgun,1,L,M,1,32.7776,-96.713337
+113038V,2008-04-18,"6271 Highland Hills Drive",Deceased,Handgun,1,B,M,1,32.67107,-96.760765
+456826T,2007-06-20,"5820 Martel Avenue #223",Injured,Handgun,1,L,M,1,32.83132,-96.7672
+031347-2015,2015-02-09,"7400 Bonnie View Road",Deceased,Vehicle,1,B,M,1,32.65671,-96.750342
+912B,2014-01-02,"2728 McKinnon Street",Deceased,Handgun,1,W,M,4,32.794,-96.80728
+203639-2016,2016-08-25,"414 N Kramer",Deceased,Handgun,1,L,M,1,32.74863,-96.878279
+221021N,2004-03-27,"4515 Village Fair Drive",Injured,Handgun,1,B,M,3,32.69084,-96.829549
+136044A,2013-05-31,"3600 Bolivar Drive","Shoot and Miss",Handgun,1,L,M,1,32.86524,-96.858268
+298185-2014,2014-12-16,"6185 Retail Road",Injured,Knife,1,W,M,1,32.86166,-96.754391
+651226M,2003-08-27,"7340 Skillman Street","Shoot and Miss",Unarmed,1,B,M,1,32.88191,-96.73456
+154184-2014,2014-06-26,"3000 Lantana Lane",Deceased,Handgun,1,B,M,3,32.69553,-96.764151
+344699X,2010-12-17,"7175 Wild Briar Lane","Shoot and Miss",Handgun,1,W,F,1,32.83099,-96.73654
+167104X,2010-06-15,"2015 Ferndale Street","Shoot and Miss",Rifle,1,B,M,1,32.72506,-96.853141
+36192Z,2012-02-13,"1180 N. St. Augustine Road",Deceased,Handgun,1,B,M,3,32.73234,-96.656941
+884709M,2003-11-20,"6300 C.F. Hawn Freeway","Shoot and Miss",Handgun,1,L,M,1,32.73369,-96.712453
+715712R,2006-09-19,"4843 Haas Drive","Shoot and Miss",Unarmed,1,B,M,1,32.7,-96.765671
+206124-2014,2014-08-27,"13739 N. Central Expressway",Deceased,Handgun,1,L,M,1,32.93578,-96.75182
+327705X,2010-11-28,"1170 N. Prairie Creek Road","Shoot and Miss","Assault Rifle",1,B,M,1,32.73263,-96.665575
+401819N,2004-05-30,"900 Bayonne Street","Shoot and Miss",Hands,1,B,M,1,32.77573,-96.836997
+84022A,2013-04-06,"534 Sunset Avenue","Shoot and Miss",Vehicle,1,L,M,1,32.74415,-96.831751
+380792W,2009-12-27,"10008 Mesita Drive",Deceased,Handgun,1,B,M,13,32.73905,-96.651634
+128833Z,2012-05-26,"3373 Lombardy Lane","Shoot and Miss",Vehicle,1,B,M,1,32.86645,-96.86715
+36033X,2010-02-07,"2000 Pacific Avenue","Shoot and Miss",Vehicle,1,L,M,2,32.78327,-96.794339
+291975Z,2012-11-25,"8400 Forney Road","Shoot and Miss",Unarmed,1,B,M,1,32.77789,-96.675429
+192024-2014,2014-08-10,"400 S. Rosemont Avenue",Deceased,Unarmed,1,W,M,1,32.74169,-96.847878
+318272Y,2011-12-05,"400 S. Houston Street",Deceased,Handgun,1,W,M,2,32.77667,-96.807184
+1016667P,2005-12-25,"9850 Whitehurst Drive","Shoot and Miss",Shotgun,1,B,M,1,32.89994,-96.724719
+145131R,2006-02-27,"10200 Walton Walker Boulevard","Shoot and Miss",Unarmed,1,A,M,1,32.86314,-96.900299
+282646W,2009-09-21,"2120 52nd Steet",Deceased,Shotgun,1,B,M,2,32.69,-96.790112
+316668X,2010-11-16,"8059 L.B.J. Freeway",Injured,"Pellet Gun",1,B,M,2,32.92488,-96.76765
+216145-2014,2014-09-07,"1550 Empire Central",Deceased,Vehicle,1,W,M,1,32.82657,-96.864537
+143473-2014,2014-06-14,"208 Glencairn Drive",Deceased,Screwdriver,1,B,F,1,32.65772,-96.825258
+12762V,2008-01-12,"3330 Pluto Street",Injured,Unarmed,1,B,M,1,32.78321,-96.891884
+336939Y,2011-12-27,"3700 Penelope Street",Deceased,Handgun,1,B,M,1,32.77135,-96.752516
+159747N,2004-03-05,"5757 Preston View Boulevard","Shoot and Miss",Unarmed,1,L,M,1,32.93499,-96.808497
+183313Z,2012-07-24,"3803 Mural Lane",Deceased,Unarmed,1,B,M,1,32.76369,-96.733512
+254101-2014,2014-10-22,"9770 Forest Lane","Shoot and Miss",Unarmed,1,B,M,1,32.90941,-96.718739
+184283V,2008-06-21,"18081 Midway Road",Injured,"BB Rifle",1,W,M,2,32.99479,-96.84388
+884861R,2006-11-24,"7740 McCallum Boulevard",Injured,Handgun,1,L,M,1,32.98785,-96.772993
+236584A,2013-09-14,"2825 Oak Lawn Avenue",Injured,Handgun,1,B,M,1,32.8076,-96.810215
+60944A,2013-03-15,"9147 Skillman Street","Shoot and Miss","BB Gun",1,B,M,1,32.9021,-96.717073
+253345A,2013-10-02,"1339 Morrell Avenue","Shoot and Miss",Handgun,1,B,M,2,32.73914,-96.803885
+1004453N,2004-12-29,"2400 Walnut Hill Lane","Shoot and Miss",Vehicle,1,W,M,1,32.881,-96.896428
+92218A,2013-04-15,"12100 Bellafonte Drive","Shoot and Miss",Handgun,1,B,M,2,32.9134,-96.761447
+570858N,2004-07-26,"325 Cadiz Street","Shoot and Miss",Vehicle,1,B,M,1,32.76771,-96.802392
+27843Z,2012-02-02,"2502 Grand Avenue",Injured,Handgun,1,B,M,2,32.76892,-96.774809
+148546W,2009-05-24,"3812 Tioga Street",Injured,Handgun,1,B,M,2,32.66415,-96.757478
+135680Z,2012-06-02,"3600 Folklore Trail",Deceased,Handgun,1,B,M,1,32.69866,-96.84111
+411133M,2003-06-03,"12700 Kleberg Road",Deceased,Shotgun,1,L,M,5,32.67422,-96.617694
+571462M,2003-07-28,"8701 Greenmound Avenue",Injured,Handgun,1,B,M,1,32.75068,-96.672367
+191609Z,2012-08-03,"3851 Casa Del Sol Lane",Injured,Handgun,1,L,M,2,32.85154,-96.654635
+355952T,2007-05-16,"5400 E. R.L. Thornton Freeway",Deceased,Handgun,1,W,M,4,32.79081,-96.748949
+667539P,2005-08-19,"500 Steeger Drive Duncanville, Texas",Deceased,Handgun,1,W,M,1,32.78263,-96.803756
+302115Z,2012-12-06,"9500 Castlefield Drive",Deceased,Shotgun,1,B,M,2,32.75227,-96.660059
+66386X,2010-03-10,"4200 Malden Street",Deceased,"Assault Rifle",1,B,M,2,32.69331,-96.806827
+56628A,2013-03-10,"3303 Southern Oaks Boulevard",Deceased,Hands,1,B,M,1,32.71845,-96.773914
+268942Z,2012-10-28,"800 N. Winnetka Avenue",Injured,Handgun,1,W,M,1,32.75237,-96.840285
+318713R,2006-04-29,"2700 Springdale Street","Shoot and Miss",Handgun,1,B,M,1,32.7686,-96.750995
+40286M,2003-01-17,"3800 Dilido Road","Shoot and Miss",Handgun,1,W,M,1,32.79855,-96.688211
+181380X,2010-06-28,"13015 Audelia Road",Deceased,Unarmed,1,W,M,1,32.92476,-96.718159
+349419X,2010-12-22,"9616 C. F. Hawn Freeway","Shoot and Miss",Hands,1,L,M,1,32.70258,-96.656112
+374556T,2007-05-22,"8131 L.B.J. Freeway",Injured,Vehicle,1,W,M,1,32.92496,-96.765308
+902413P,2005-11-10,"2514 Tristian Court",Injured,Unarmed,1,L,M,1,32.71769,-96.910913
+132383W,2009-05-09,"2100 N. Lamar Street","Shoot and Miss",Vehicle,1,L,M,1,32.78449,-96.807949
+229702A,2013-09-06,"8000 C. F. Hawn Freeway",Injured,Handgun,1,L,M,1,32.71527,-96.685849
+795295M,2003-10-18,"3050 W. Pentagon Parkway","Shoot and Miss",Rifle,1,B,M,1,32.70646,-96.873091
+337026Y,2011-12-28,"11700 Audelia Road","Shoot and Miss",Unarmed,1,B,M,1,32.90855,-96.71764
+308643Z,2012-12-14,"4542 W. Kiest Boulevard",Deceased,Handgun,1,B,M,1,32.70561,-96.896632
+287112W,2009-09-26,"2000 Edd Road",Deceased,"OC Spray",1,W,M,1,32.67861,-96.60936
+132098Z,2012-05-29,"18220 Dallas Parkway","Shoot and Miss",Vehicle,1,W,M,2,32.99856,-96.829037
+94757B,2014-04-21,"3314 W. Camp Wisdom Road",Deceased,Handgun,1,W,M,3,32.66254,-96.875551
+372172V,2008-12-07,"4791 W. Ledbetter Drive","Shoot and Miss",Vehicle,1,B,M,1,32.6912,-96.902925
+62315T,2007-01-27,"2600 Grand Avenue","Shoot and Miss",Hands,1,B,M,1,32.7697,-96.773881
+403476M,2003-06-01,"4220 Independence Drive",Deceased,Handgun,1,B,M,3,32.66099,-96.889139
+132104Z,2012-05-29,"7100 Valley View Lane",Injured,Vehicle,1,B,F,1,32.9275,-96.782904
+772767N,2004-10-06,"2287 W. Northwest Highway",Deceased,Handgun,1,W,M,1,32.86167,-96.891379
+100577T,2007-02-12,"3847 Timberglen Road, #3116",Deceased,Handgun,1,B,M,1,33.0048,-96.84757
+143229-2014,2014-06-14,"8124 Forest Lane","Shoot and Miss",Vehicle,1,B,M,2,32.90915,-96.763977
+213806V,2008-07-09,"1613 Monte Carlo Street",Deceased,Handgun,1,L,M,2,32.7064,-96.84641
+200830-2014,2014-08-20,"7921 L.B.J. Freeway",Injured,Handgun,1,W,M,2,32.92484,-96.770077
+248051A,2013-09-26,"10316 Sandra Lynn Drive",Deceased,Handgun,1,W,M,3,32.83809,-96.656448
+670242T,2007-09-27,"4800 Monarch Street",Injured,Handgun,1,B,M,1,32.80756,-96.779622
+260599A,2013-10-11,"222 N. Barnett Avenue","Shoot and Miss",Unarmed,1,L,M,1,32.74721,-96.871408
+345748R,2006-05-09,"5500 Bernal Drive","Shoot and Miss",Handgun,1,L,M,1,32.77597,-96.911343
+70285X,2010-03-14,"2802 Materhorn Drive",Deceased,Hands,1,B,M,1,32.82859,-96.666523
+201507-2014,2014-08-21,"4800 Veterans Drive",Injured,Handgun,1,B,M,1,32.69285,-96.781851
+072458-2016,2016-03-26,"8218 Willoughby Boulevard","Shoot and Miss",Shotgun,1,B,M,1,32.64723,-96.829362
+161616-2016,2016-07-03,"7440 Chesterfield Drive","Shoot and Miss",Handgun,1,B,M,1,32.65628,-96.869793
+141461-2016,2016-06-11,"2700 Custer Drive","Shoot and Miss",Vehicle,1,B,M,1,32.70483,-96.779494
+089985-2016,2016-04-16,"4800 Columbia Ave","Shoot and Miss",Handgun,1,L,M,1,32.79473,-96.764017
+177645-2016,2016-07-23,"1716 Chattanooga Place","Shoot and Miss",Handgun,1,B,M,1,32.81664,-96.851409
+165193-2016,2016-07-07,"801 Main Street",Deceased,"Assault Rifle",1,B,M,12,32.77945,-96.804915
