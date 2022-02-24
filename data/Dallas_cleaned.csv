@@ -1,0 +1,209 @@
+date,location,subject_statuses,subject_weapon,subject_race,subject_gender,latitude,longitude,month,officer_count_cat,street
+2013-02,3000 Chihuahua Street,Injured,Handgun,Latin,M,,,2,2 to 3, Chihuahua Street
+2010-05,1300 N. Munger Boulevard,Injured,Handgun,Latin,M,,,5,alone, N. Munger Boulevard
+2006-04,6512 South Loop 12,Injured,Unarmed,Black,M,,,4,alone, South Loop 
+2005-05,4900 Eastside Avenue,Shoot and Miss,Vehicle,Latin,M,,,5,2 to 3, Eastside Avenue
+2003-07,7728 S. Loop 12,Deceased,Handgun,Black,M,,,7,2 to 3, S. Loop 
+2003-11,4811 Duncanville Road,Deceased,Shotgun/Rifle,Latin,M,32.68642,-96.908674,11,2 to 3, Duncanville Road
+2013-03,2208 W. Northwest Highway,Deceased,Handgun,Black,M,32.864,-96.898998,3,alone, W. Northwest Highway
+2014-10,4807 Maple Avenue,Shoot and Miss,Toy/Air gun,White,M,32.81482,-96.826787,10,alone, Maple Avenue
+2012-02,2700 Medill Street,Injured,Unarmed,Black,M,32.7754,-96.767489,2,alone, Medill Street
+2005-12,400 Sunset Avenue,Shoot and Miss,Handgun,Black,M,32.74417,-96.82847,12,alone, Sunset Avenue
+2009-12,14500 Dallas North Parkway,Injured,Unarmed,Latin,M,32.945,-96.822619,12,alone, Dallas North Parkway
+2013-07,4600 Haverwood Lane,Shoot and Miss,Handgun,Latin,M,33.0073,-96.831946,7,alone, Haverwood Lane
+2015-06,1400 South Lamar Street,Deceased,Shotgun/Rifle,White,M,32.7673,-96.795013,6,more than 3, South Lamar Street
+2006-11,4515 Village Fair Place,Deceased,Handgun,Black,M,32.68943,-96.828234,11,alone, Village Fair Place
+2006-02,1228 Oak Park Drive,Injured,Handgun,Latin,M,32.68904,-96.84436,2,more than 3, Oak Park Drive
+2004-12,4100 Garrison Street,Injured,Unarmed,Black,M,32.70298,-96.786995,12,2 to 3, Garrison Street
+2009-10,200 Ezekial Street,Shoot and Miss,Handgun,Black,M,32.7148,-96.710725,10,alone, Ezekial Street
+2009-09,2745 Ivandell Road,Deceased,Unarmed,Latin,M,32.73648,-96.865394,9,alone, Ivandell Road
+2003-01,2209 Northwest Highway,Shoot and Miss,Handgun,Latin,M,32.8639,-96.898068,1,alone, Northwest Highway
+2012-06,4345 W. Camp Wisdom Road,Deceased,Handgun,Black,M,32.66202,-96.890533,6,alone, W. Camp Wisdom Road
+2011-11,2500 Wells Street,Injured,Handgun,Black,M,32.73976,-96.754039,11,alone, Wells Street
+2009-10,3902 Frank Street,Injured,Handgun,Black,M,32.77188,-96.749393,10,2 to 3, Frank Street
+2003-04,8400 Scyene Road,Deceased,Knife,White,M,32.76332,-96.676431,4,alone, Scyene Road
+2006-11,2711 Exline Street,Shoot and Miss,Toy/Air gun,Black,M,32.75779,-96.757384,11,alone, Exline Street
+2011-06,7152 Fair Oaks Avenue,Shoot and Miss,Vehicle,Black,M,32.87317,-96.75778,6,2 to 3, Fair Oaks Avenue
+2010-03,12222 Merit Drive,Shoot and Miss,Handgun,White,M,32.91469,-96.7718,3,alone, Merit Drive
+2011-03,230 S. Riverfront Boulevard,Injured,Handgun,Latin,M,32.77571,-96.813213,3,2 to 3, S. Riverfront Boulevard
+2006-02,200 S Madison Avenue,Shoot and Miss,Toy/Air gun,Latin,F,32.74414,-96.82649,2,alone, S Madison Avenue
+2009-03,733 Cliffview Drive,Injured,Handgun,Black,M,32.70438,-96.671745,3,alone, Cliffview Drive
+2003-07,7800 Dasch Street,Injured,Handgun,Black,M,32.72177,-96.688362,7,alone, Dasch Street
+2013-11,1524 E. Missouri Avenue,Deceased,other,Latin,M,32.71797,-96.802025,11,alone, E. Missouri Avenue
+2004-07,4122 Rawlins Street,Injured,Handgun,White,M,32.81452,-96.810818,7,alone, Rawlins Street
+2014-08,9000 Lake June Road,Deceased,Handgun,Black,M,32.73419,-96.665266,8,alone, Lake June Road
+2005-03,2800 N. St. Augustine Drive,Deceased,Handgun,Black,M,32.75926,-96.656826,3,alone, N. St. Augustine Drive
+2013-10,9452 Crimnson Court,Injured,Knife,White,M,32.66901,-96.662659,10,alone, Crimnson Court
+2014-08,3647 Espanola Drive,Deceased,Knife,Latin,M,32.86836,-96.856854,8,alone, Espanola Drive
+2009-12,5215 Belmont Avenue,Injured,Unarmed,White,M,32.81484,-96.780444,12,alone, Belmont Avenue
+2009-11,5716 Winton Street,Injured,Unarmed,Black,M,32.83568,-96.769373,11,alone, Winton Street
+2008-06,1521 N. Cockrell Hill Road,Deceased,other,White,M,32.76308,-96.895315,6,alone, N. Cockrell Hill Road
+2015-07,1100 N. Bishop Blvd,Deceased,Handgun,White,M,32.75613,-96.827795,7,more than 3, N. Bishop Blvd
+2008-03,3100 Birmingham Street,Injured,Handgun,Black,M,32.77,-96.76224,3,more than 3, Birmingham Street
+2007-07,1818 N. Akard Street,Shoot and Miss,Vehicle,Black,M,32.78652,-96.802127,7,alone, N. Akard Street
+2013-12,9524 Military Parkway,Injured,Unarmed,Black,M,32.76831,-96.657518,12,alone, Military Parkway
+2005-12,2800 Indiana Street,Shoot and Miss,Handgun,Asian,M,32.7854,-96.783814,12,alone, Indiana Street
+2012-07,200 S. Pearl Street,Shoot and Miss,Handgun,Latin,M,32.78136,-96.79226,7,alone, S. Pearl Street
+2010-03,10222 N. Walton Walker Boulevard,Deceased,other,Latin,M,32.86311,-96.900308,3,2 to 3, N. Walton Walker Boulevard
+2008-05,800 Stemmons Freeway,Injured,Unarmed,White,M,32.78627,-96.8127,5,2 to 3, Stemmons Freeway
+2009-05,1900 Empire Central,Injured,Vehicle,Black,M,32.82618,-96.85714,5,alone, Empire Central
+2012-10,3716 Spring Avenue,Shoot and Miss,Unarmed,Black,M,32.7691,-96.748631,10,alone, Spring Avenue
+2003-10,8307 Meadow Road,Injured,Vehicle,Latin,M,32.88685,-96.761546,10,alone, Meadow Road
+2007-09,11200 Woodmeadow Parkway,Deceased,Unarmed,Black,M,32.8514,-96.646849,9,alone, Woodmeadow Parkway
+2007-03,7000 Lake June Road,Deceased,Unarmed,Black,M,32.73424,-96.700939,3,alone, Lake June Road
+2016-06,8008 Herb Keheller,Injured,other,Black,M,32.8526,-96.85281,6,alone, Herb Keheller
+2011-10,2000 Commerce Street,Shoot and Miss,Handgun,Black,M,32.78099,-96.793979,10,alone, Commerce Street
+2010-02,3303 W. Illinois Avenue,Injured,Handgun,White,M,32.72036,-96.87471,2,alone, W. Illinois Avenue
+2014-04,1221 S. Lamar Street,Deceased,Knife,White,M,32.76867,-96.796936,4,alone, S. Lamar Street
+2003-05,7600 S.M. Wright Freeway,Shoot and Miss,Handgun,Black,M,32.65595,-96.822788,5,alone, S.M. Wright Freeway
+2015-06,3211 Reynolds Avenue,Shoot and Miss,Handgun,Latin,M,32.78642,-96.740186,6,alone, Reynolds Avenue
+2008-09,4800 S. Lancaster Road,Deceased,Unarmed,Black,M,32.69049,-96.791435,9,alone, S. Lancaster Road
+2007-08,9100 Stone Creek Place,Deceased,Unarmed,White,M,32.9059,-96.745461,8,alone, Stone Creek Place
+2006-05,2208 N. Carroll Avenue,Deceased,Unarmed,White,M,32.80625,-96.78443,5,alone, N. Carroll Avenue
+2010-11,3100 W. Davis Street,Deceased,Toy/Air gun,Latin,M,32.74954,-96.871586,11,more than 3, W. Davis Street
+2011-11,2900 Spruce Valley Lane,Shoot and Miss,Unarmed,Latin,M,32.71391,-96.876091,11,alone, Spruce Valley Lane
+2011-05,6417 Ridgecrest Road,Injured,Unarmed,Black,M,32.8664,-96.752763,5,alone, Ridgecrest Road
+2005-12,7442 Chesterfield Drive,Injured,Handgun,Black,M,32.65625,-96.869793,12,alone, Chesterfield Drive
+2013-02,6500 Skillman Street,Deceased,Shotgun/Rifle,White,M,32.8651,-96.743538,2,more than 3, Skillman Street
+2004-01,6950 Marvin D. Love Freeway,Deceased,Knife,Black,F,32.6636,-96.867936,1,2 to 3, Marvin D. Love Freeway
+2012-05,7129 Tabor Drive,Deceased,Handgun,White,M,32.87725,-96.737028,5,2 to 3, Tabor Drive
+2008-08,6800 Larmanda Street,Injured,Handgun,Black,M,32.86723,-96.74732,8,2 to 3, Larmanda Street
+2013-01,4322 Fernwood Avenue,Shoot and Miss,Handgun,Black,M,32.69435,-96.798039,1,more than 3, Fernwood Avenue
+2008-09,10333 Technology Boulevard,Shoot and Miss,Shotgun/Rifle,Latin,M,32.86305,-96.897332,9,alone, Technology Boulevard
+2003-10,7500 Gayglen Drive,Injured,Knife,Latin,M,32.7097,-96.692775,10,2 to 3, Gayglen Drive
+2004-03,2242 Zang Boulevard South,Shoot and Miss,Vehicle,Black,M,32.7209,-96.830217,3,2 to 3, Zang Boulevard South
+2007-05,5400 Bonita Avenue,Shoot and Miss,Unarmed,Latin,M,32.8182,-96.777416,5,alone, Bonita Avenue
+2006-09,9711 Pinehurst Lane,Injured,Handgun,Black,M,32.76506,-96.654428,9,2 to 3, Pinehurst Lane
+2010-04,2600 Walnut Hill Lane,Shoot and Miss,Vehicle,Latin,M,32.88101,-96.888174,4,alone, Walnut Hill Lane
+2013-07,1639 Conner Drive,Deceased,Unarmed,Latin,M,32.74073,-96.680953,7,alone, Conner Drive
+2015-09,10800 Stone Canyon Rd,Deceased,Handgun,Latin,M,32.89443,-96.774734,9,2 to 3, Stone Canyon Rd
+2015-08,3610 Penelope Street,Deceased,Toy/Air gun,Black,M,32.77078,-96.753149,8,more than 3, Penelope Street
+2005-02,8600 Cherry Brook Street,Shoot and Miss,Handgun,Latin,M,32.7387,-96.673222,2,alone, Cherry Brook Street
+2003-10,900 E. McVey Avenue,Injured,Vehicle,Latin,M,32.7095,-96.81216,10,alone, E. McVey Avenue
+2012-05,5900 Stretch Drive,Deceased,Handgun,Black,M,32.7334,-96.92265,5,alone, Stretch Drive
+2008-07,7700 Denton Drive,Injured,Handgun,Latin,M,32.83827,-96.85136,7,2 to 3, Denton Drive
+2003-03,14655 Preston Road,Deceased,Shotgun/Rifle,White,M,32.94754,-96.803614,3,alone, Preston Road
+2015-09,4207 Wiley College Dr,Shoot and Miss,Handgun,Black,M,32.67005,-96.748462,9,alone, Wiley College Dr
+2008-08,2745 W. Northwest Highway,Shoot and Miss,Handgun,Black,M,32.85803,-96.874071,8,2 to 3, W. Northwest Highway
+2013-06,2310 Martin Luther King Jr. Blvd,Injured,Knife,Black,M,32.76472,-96.773437,6,2 to 3, Martin Luther King Jr. Blvd
+2014-07,500 S. Llewellyn Avenue,Shoot and Miss,Handgun,Latin,M,32.74114,-96.832159,7,2 to 3, S. Llewellyn Avenue
+2013-01,1515 S. Buckner Boulevard,Shoot and Miss,Vehicle,Latin,M,32.73863,-96.682972,1,2 to 3, S. Buckner Boulevard
+2013-06,8943 Senate Street,Shoot and Miss,Handgun,Black,M,32.80016,-96.689744,6,alone, Senate Street
+2008-05,4526 Humphrey Avenue,Deceased,Toy/Air gun,Black,M,32.70525,-96.762627,5,2 to 3, Humphrey Avenue
+2009-01,4950 Wadsworth Drive,Shoot and Miss,Handgun,Black,M,32.69879,-96.760506,1,2 to 3, Wadsworth Drive
+2012-08,12670 E. Northwest Highway,Shoot and Miss,Vehicle,Black,M,32.86401,-96.662901,8,alone, E. Northwest Highway
+2015-06,2620 Creative Place,Shoot and Miss,Unarmed,Latin,M,32.75905,-96.864368,6,alone, Creative Place
+2003-08,3500 McKinney Avenue,Injured,Vehicle,Black,M,32.80576,-96.798423,8,alone, McKinney Avenue
+2006-11,1700 Martin Luther King Jr. Boulevard,Injured,Handgun,Black,M,32.76197,-96.776719,11,more than 3, Martin Luther King Jr. Boulevard
+2004-02,11819 Webb Chapel Road,Shoot and Miss,Vehicle,Latin,M,32.91115,-96.8733,2,alone, Webb Chapel Road
+2011-12,12121 Audelia Road,Injured,Knife,Black,M,32.9125,-96.718124,12,alone, Audelia Road
+2015-11,2435 W. Northwest Hwy,Injured,Vehicle,Latin,M,32.85879,-96.882629,11,2 to 3, W. Northwest Hwy
+2004-09,5146 Vandelia Street #101,Injured,Handgun,Latin,M,32.82223,-96.823942,9,alone, Vandelia Street #
+2014-05,6048 Belmont Avenue,Shoot and Miss,Handgun,Latin,M,32.81731,-96.761852,5,alone, Belmont Avenue
+2007-03,4023 Bernal Drive,Injured,Shotgun/Rifle,Latin,M,32.7915,-96.886832,3,more than 3, Bernal Drive
+2006-01,5423 Peterson Lane #259,Injured,Knife,Latin,M,32.9306,-96.814373,1,alone, Peterson Lane #
+2012-02,17601 Marsh Lane,Deceased,Handgun,White,M,32.99075,-96.854966,2,alone, Marsh Lane
+2009-03,1400 N. Garrett Avenue,Deceased,Handgun,Latin,M,32.8057,-96.771209,3,2 to 3, N. Garrett Avenue
+2011-11,3800 Dilido Street,Shoot and Miss,Handgun,Latin,M,32.79855,-96.688211,11,alone, Dilido Street
+2011-07,2550 W. Redbird Lane,Shoot and Miss,Unarmed,Black,M,32.67113,-96.859781,7,alone, W. Redbird Lane
+2007-06,1200 Shaw Street,Injured,Vehicle,Latin,M,32.78589,-96.842736,6,2 to 3, Shaw Street
+2015-06,3306 Irving Boulevard,Shoot and Miss,Handgun,Latin,M,32.80791,-96.874081,6,alone, Irving Boulevard
+2006-03,10834 Ferguson Road,Shoot and Miss,Vehicle,Black,M,32.84293,-96.664025,3,alone, Ferguson Road
+2008-12,2505 Pacific Avenue,Shoot and Miss,Handgun,Latin,M,32.78471,-96.789168,12,alone, Pacific Avenue
+2007-08,2911 Lombardy Lane,Shoot and Miss,Vehicle,Latin,M,32.8664,-96.876324,8,alone, Lombardy Lane
+2014-02,13030 Audelia Road,Injured,Handgun,Black,M,32.92425,-96.71798,2,2 to 3, Audelia Road
+2004-06,3900 N. Hampton Road,Shoot and Miss,Vehicle,Black,M,32.78976,-96.85641,6,alone, N. Hampton Road
+2005-11,2415 Madera Street,Shoot and Miss,Handgun,Latin,M,32.81616,-96.778443,11,alone, Madera Street
+2010-10,3810 Bonnie View Road,Deceased,Unarmed,Black,M,32.71273,-96.775044,10,alone, Bonnie View Road
+2014-02,4200 Elmira Street,Injured,Handgun,Latin,M,32.7776,-96.713337,2,alone, Elmira Street
+2008-04,6271 Highland Hills Drive,Deceased,Handgun,Black,M,32.67107,-96.760765,4,alone, Highland Hills Drive
+2007-06,5820 Martel Avenue #223,Injured,Handgun,Latin,M,32.83132,-96.7672,6,alone, Martel Avenue #
+2015-02,7400 Bonnie View Road,Deceased,Vehicle,Black,M,32.65671,-96.750342,2,alone, Bonnie View Road
+2014-01,2728 McKinnon Street,Deceased,Handgun,White,M,32.794,-96.80728,1,more than 3, McKinnon Street
+2016-08,414 N Kramer,Deceased,Handgun,Latin,M,32.74863,-96.878279,8,alone, N Kramer
+2004-03,4515 Village Fair Drive,Injured,Handgun,Black,M,32.69084,-96.829549,3,2 to 3, Village Fair Drive
+2013-05,3600 Bolivar Drive,Shoot and Miss,Handgun,Latin,M,32.86524,-96.858268,5,alone, Bolivar Drive
+2014-12,6185 Retail Road,Injured,Knife,White,M,32.86166,-96.754391,12,alone, Retail Road
+2003-08,7340 Skillman Street,Shoot and Miss,Unarmed,Black,M,32.88191,-96.73456,8,alone, Skillman Street
+2014-06,3000 Lantana Lane,Deceased,Handgun,Black,M,32.69553,-96.764151,6,2 to 3, Lantana Lane
+2010-12,7175 Wild Briar Lane,Shoot and Miss,Handgun,White,F,32.83099,-96.73654,12,alone, Wild Briar Lane
+2010-06,2015 Ferndale Street,Shoot and Miss,Shotgun/Rifle,Black,M,32.72506,-96.853141,6,alone, Ferndale Street
+2012-02,1180 N. St. Augustine Road,Deceased,Handgun,Black,M,32.73234,-96.656941,2,2 to 3, N. St. Augustine Road
+2003-11,6300 C.F. Hawn Freeway,Shoot and Miss,Handgun,Latin,M,32.73369,-96.712453,11,alone, C.F. Hawn Freeway
+2006-09,4843 Haas Drive,Shoot and Miss,Unarmed,Black,M,32.7,-96.765671,9,alone, Haas Drive
+2014-08,13739 N. Central Expressway,Deceased,Handgun,Latin,M,32.93578,-96.75182,8,alone, N. Central Expressway
+2010-11,1170 N. Prairie Creek Road,Shoot and Miss,Shotgun/Rifle,Black,M,32.73263,-96.665575,11,alone, N. Prairie Creek Road
+2004-05,900 Bayonne Street,Shoot and Miss,Unarmed,Black,M,32.77573,-96.836997,5,alone, Bayonne Street
+2013-04,534 Sunset Avenue,Shoot and Miss,Vehicle,Latin,M,32.74415,-96.831751,4,alone, Sunset Avenue
+2009-12,10008 Mesita Drive,Deceased,Handgun,Black,M,32.73905,-96.651634,12,more than 3, Mesita Drive
+2012-05,3373 Lombardy Lane,Shoot and Miss,Vehicle,Black,M,32.86645,-96.86715,5,alone, Lombardy Lane
+2010-02,2000 Pacific Avenue,Shoot and Miss,Vehicle,Latin,M,32.78327,-96.794339,2,2 to 3, Pacific Avenue
+2012-11,8400 Forney Road,Shoot and Miss,Unarmed,Black,M,32.77789,-96.675429,11,alone, Forney Road
+2014-08,400 S. Rosemont Avenue,Deceased,Unarmed,White,M,32.74169,-96.847878,8,alone, S. Rosemont Avenue
+2011-12,400 S. Houston Street,Deceased,Handgun,White,M,32.77667,-96.807184,12,2 to 3, S. Houston Street
+2005-12,9850 Whitehurst Drive,Shoot and Miss,Shotgun/Rifle,Black,M,32.89994,-96.724719,12,alone, Whitehurst Drive
+2006-02,10200 Walton Walker Boulevard,Shoot and Miss,Unarmed,Asian,M,32.86314,-96.900299,2,alone, Walton Walker Boulevard
+2009-09,2120 52nd Steet,Deceased,Shotgun/Rifle,Black,M,32.69,-96.790112,9,2 to 3, 52nd Steet
+2010-11,8059 L.B.J. Freeway,Injured,Toy/Air gun,Black,M,32.92488,-96.76765,11,2 to 3, L.B.J. Freeway
+2014-09,1550 Empire Central,Deceased,Vehicle,White,M,32.82657,-96.864537,9,alone, Empire Central
+2014-06,208 Glencairn Drive,Deceased,other,Black,F,32.65772,-96.825258,6,alone, Glencairn Drive
+2008-01,3330 Pluto Street,Injured,Unarmed,Black,M,32.78321,-96.891884,1,alone, Pluto Street
+2011-12,3700 Penelope Street,Deceased,Handgun,Black,M,32.77135,-96.752516,12,alone, Penelope Street
+2004-03,5757 Preston View Boulevard,Shoot and Miss,Unarmed,Latin,M,32.93499,-96.808497,3,alone, Preston View Boulevard
+2012-07,3803 Mural Lane,Deceased,Unarmed,Black,M,32.76369,-96.733512,7,alone, Mural Lane
+2014-10,9770 Forest Lane,Shoot and Miss,Unarmed,Black,M,32.90941,-96.718739,10,alone, Forest Lane
+2008-06,18081 Midway Road,Injured,Toy/Air gun,White,M,32.99479,-96.84388,6,2 to 3, Midway Road
+2006-11,7740 McCallum Boulevard,Injured,Handgun,Latin,M,32.98785,-96.772993,11,alone, McCallum Boulevard
+2013-09,2825 Oak Lawn Avenue,Injured,Handgun,Black,M,32.8076,-96.810215,9,alone, Oak Lawn Avenue
+2013-03,9147 Skillman Street,Shoot and Miss,Toy/Air gun,Black,M,32.9021,-96.717073,3,alone, Skillman Street
+2013-10,1339 Morrell Avenue,Shoot and Miss,Handgun,Black,M,32.73914,-96.803885,10,2 to 3, Morrell Avenue
+2004-12,2400 Walnut Hill Lane,Shoot and Miss,Vehicle,White,M,32.881,-96.896428,12,alone, Walnut Hill Lane
+2013-04,12100 Bellafonte Drive,Shoot and Miss,Handgun,Black,M,32.9134,-96.761447,4,2 to 3, Bellafonte Drive
+2004-07,325 Cadiz Street,Shoot and Miss,Vehicle,Black,M,32.76771,-96.802392,7,alone, Cadiz Street
+2012-02,2502 Grand Avenue,Injured,Handgun,Black,M,32.76892,-96.774809,2,2 to 3, Grand Avenue
+2009-05,3812 Tioga Street,Injured,Handgun,Black,M,32.66415,-96.757478,5,2 to 3, Tioga Street
+2012-06,3600 Folklore Trail,Deceased,Handgun,Black,M,32.69866,-96.84111,6,alone, Folklore Trail
+2003-06,12700 Kleberg Road,Deceased,Shotgun/Rifle,Latin,M,32.67422,-96.617694,6,more than 3, Kleberg Road
+2003-07,8701 Greenmound Avenue,Injured,Handgun,Black,M,32.75068,-96.672367,7,alone, Greenmound Avenue
+2012-08,3851 Casa Del Sol Lane,Injured,Handgun,Latin,M,32.85154,-96.654635,8,2 to 3, Casa Del Sol Lane
+2007-05,5400 E. R.L. Thornton Freeway,Deceased,Handgun,White,M,32.79081,-96.748949,5,more than 3, E. R.L. Thornton Freeway
+2005-08,"500 Steeger Drive Duncanville, Texas",Deceased,Handgun,White,M,32.78263,-96.803756,8,alone," Steeger Drive Duncanville, Texas"
+2012-12,9500 Castlefield Drive,Deceased,Shotgun/Rifle,Black,M,32.75227,-96.660059,12,2 to 3, Castlefield Drive
+2010-03,4200 Malden Street,Deceased,Shotgun/Rifle,Black,M,32.69331,-96.806827,3,2 to 3, Malden Street
+2013-03,3303 Southern Oaks Boulevard,Deceased,Unarmed,Black,M,32.71845,-96.773914,3,alone, Southern Oaks Boulevard
+2012-10,800 N. Winnetka Avenue,Injured,Handgun,White,M,32.75237,-96.840285,10,alone, N. Winnetka Avenue
+2006-04,2700 Springdale Street,Shoot and Miss,Handgun,Black,M,32.7686,-96.750995,4,alone, Springdale Street
+2003-01,3800 Dilido Road,Shoot and Miss,Handgun,White,M,32.79855,-96.688211,1,alone, Dilido Road
+2010-06,13015 Audelia Road,Deceased,Unarmed,White,M,32.92476,-96.718159,6,alone, Audelia Road
+2010-12,9616 C. F. Hawn Freeway,Shoot and Miss,Unarmed,Latin,M,32.70258,-96.656112,12,alone, C. F. Hawn Freeway
+2007-05,8131 L.B.J. Freeway,Injured,Vehicle,White,M,32.92496,-96.765308,5,alone, L.B.J. Freeway
+2005-11,2514 Tristian Court,Injured,Unarmed,Latin,M,32.71769,-96.910913,11,alone, Tristian Court
+2009-05,2100 N. Lamar Street,Shoot and Miss,Vehicle,Latin,M,32.78449,-96.807949,5,alone, N. Lamar Street
+2013-09,8000 C. F. Hawn Freeway,Injured,Handgun,Latin,M,32.71527,-96.685849,9,alone, C. F. Hawn Freeway
+2003-10,3050 W. Pentagon Parkway,Shoot and Miss,Shotgun/Rifle,Black,M,32.70646,-96.873091,10,alone, W. Pentagon Parkway
+2011-12,11700 Audelia Road,Shoot and Miss,Unarmed,Black,M,32.90855,-96.71764,12,alone, Audelia Road
+2012-12,4542 W. Kiest Boulevard,Deceased,Handgun,Black,M,32.70561,-96.896632,12,alone, W. Kiest Boulevard
+2009-09,2000 Edd Road,Deceased,other,White,M,32.67861,-96.60936,9,alone, Edd Road
+2012-05,18220 Dallas Parkway,Shoot and Miss,Vehicle,White,M,32.99856,-96.829037,5,2 to 3, Dallas Parkway
+2014-04,3314 W. Camp Wisdom Road,Deceased,Handgun,White,M,32.66254,-96.875551,4,2 to 3, W. Camp Wisdom Road
+2008-12,4791 W. Ledbetter Drive,Shoot and Miss,Vehicle,Black,M,32.6912,-96.902925,12,alone, W. Ledbetter Drive
+2007-01,2600 Grand Avenue,Shoot and Miss,Unarmed,Black,M,32.7697,-96.773881,1,alone, Grand Avenue
+2003-06,4220 Independence Drive,Deceased,Handgun,Black,M,32.66099,-96.889139,6,2 to 3, Independence Drive
+2012-05,7100 Valley View Lane,Injured,Vehicle,Black,F,32.9275,-96.782904,5,alone, Valley View Lane
+2004-10,2287 W. Northwest Highway,Deceased,Handgun,White,M,32.86167,-96.891379,10,alone, W. Northwest Highway
+2007-02,"3847 Timberglen Road, #3116",Deceased,Handgun,Black,M,33.0048,-96.84757,2,alone," Timberglen Road, #"
+2014-06,8124 Forest Lane,Shoot and Miss,Vehicle,Black,M,32.90915,-96.763977,6,2 to 3, Forest Lane
+2008-07,1613 Monte Carlo Street,Deceased,Handgun,Latin,M,32.7064,-96.84641,7,2 to 3, Monte Carlo Street
+2014-08,7921 L.B.J. Freeway,Injured,Handgun,White,M,32.92484,-96.770077,8,2 to 3, L.B.J. Freeway
+2013-09,10316 Sandra Lynn Drive,Deceased,Handgun,White,M,32.83809,-96.656448,9,2 to 3, Sandra Lynn Drive
+2007-09,4800 Monarch Street,Injured,Handgun,Black,M,32.80756,-96.779622,9,alone, Monarch Street
+2013-10,222 N. Barnett Avenue,Shoot and Miss,Unarmed,Latin,M,32.74721,-96.871408,10,alone, N. Barnett Avenue
+2006-05,5500 Bernal Drive,Shoot and Miss,Handgun,Latin,M,32.77597,-96.911343,5,alone, Bernal Drive
+2010-03,2802 Materhorn Drive,Deceased,Unarmed,Black,M,32.82859,-96.666523,3,alone, Materhorn Drive
+2014-08,4800 Veterans Drive,Injured,Handgun,Black,M,32.69285,-96.781851,8,alone, Veterans Drive
+2016-03,8218 Willoughby Boulevard,Shoot and Miss,Shotgun/Rifle,Black,M,32.64723,-96.829362,3,alone, Willoughby Boulevard
+2016-07,7440 Chesterfield Drive,Shoot and Miss,Handgun,Black,M,32.65628,-96.869793,7,alone, Chesterfield Drive
+2016-06,2700 Custer Drive,Shoot and Miss,Vehicle,Black,M,32.70483,-96.779494,6,alone, Custer Drive
+2016-04,4800 Columbia Ave,Shoot and Miss,Handgun,Latin,M,32.79473,-96.764017,4,alone, Columbia Ave
+2016-07,1716 Chattanooga Place,Shoot and Miss,Handgun,Black,M,32.81664,-96.851409,7,alone, Chattanooga Place
+2016-07,801 Main Street,Deceased,Shotgun/Rifle,Black,M,32.77945,-96.804915,7,more than 3, Main Street
