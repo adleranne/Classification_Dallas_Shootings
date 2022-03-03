@@ -46,4 +46,5 @@ Database used:
 Original data/website of Dallas police department
 https://www.dallasopendata.com/Public-Safety/Dallas-Police-Officer-Involved-Shootings/4gmt-jyx2
 
-
+## Conclusions
+There is unfortunately not enough data for a machine learning model to predict any future cases/outcome of shootings. In order to effectively train such a model, way more data would have to be selected (for instance including other cities/states in America) and also more features would be necessary. This analysis can only show tendencies and some descriptive statistics, describing the incidents in the past but outcomes can not be generalized. 
